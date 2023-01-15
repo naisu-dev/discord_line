@@ -1,9 +1,6 @@
 import os
 import requests
-from dotenv import load_dotenv
 import discord
-
-load_dotenv()
 
 bot = discord.Client(intents=discord.Intents.all())
 

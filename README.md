@@ -9,4 +9,4 @@ envファイルのnotify_urlとdiscord_token<br>
 discord 2.0.0<br>
 dotenv 0.21.0<br>
 ### お問い合わせ<br>
-[ここにDMください](https://twitter.com/naisu_dayo)
+[ここにDMください](https://twitter.com/naisu_dev_dayo)
